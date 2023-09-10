@@ -1,2 +1,2 @@
 # CODSOFT
-This repository contains tasks for my vietual internship at CodSoft
+This repository contains tasks for my virtual internship at CodSoft
