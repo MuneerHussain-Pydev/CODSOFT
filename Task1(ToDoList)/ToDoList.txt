@@ -1,0 +1,3 @@
+**Task 1: GUI-Based To-Do List Application**
+
+For Task 1, I have created a Graphical User Interface (GUI) based TO-DO-LIST application. This application empowers users to efficiently manage their tasks with a variety of functionalities. Users can seamlessly add new tasks, remove existing ones, mark tasks as complete or incomplete, and even clear the entire task list for a clean slate. The intuitive design ensures a user-friendly experience, making task management a breeze. For a more in-depth look at the code and implementation.
